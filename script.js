@@ -17,3 +17,4 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 console.log('Script loaded successfully');
+console.log('Ready to enhance the food app experience!');
